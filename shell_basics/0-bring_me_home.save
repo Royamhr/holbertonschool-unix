@@ -1,0 +1,10 @@
+#!/bin/bash
+cd ~
+chmod +x 0-bring_me_home
+
+source /root/holbertonschool-unix/shell_basics/0-bring_me_home
+pwd
+
+pwd
+ls
+
